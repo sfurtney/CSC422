@@ -18,6 +18,7 @@ public class CloneCopyCSC422 {
         // TODO code application logic here
         System.out.println("Hello GitHub");
         System.out.println("Test");
+        System.out.println("Test Again");
     }
     
 }
