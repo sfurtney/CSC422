@@ -19,7 +19,7 @@ public class CloneCopyCSC422 {
         System.out.println("Hello GitHub");
         System.out.println("Test");
         System.out.println("Test Again");
-        System.out.println("Created a branch");
+        System.out.println("Created a new branch");
     }
     
 }
